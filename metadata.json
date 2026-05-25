@@ -1,0 +1,6 @@
+{
+  "name": "AI Startup Platform",
+  "description": "A highly polished, modern AI startup website featuring animated gradients, custom dashboard tools, dynamic counters, and an interactive Gemini-powered AI playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
